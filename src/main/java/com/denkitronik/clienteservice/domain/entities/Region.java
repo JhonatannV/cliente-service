@@ -1,4 +1,4 @@
-package com.denkitronik.clienteservice.entities;
+package com.denkitronik.clienteservice.domain.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
